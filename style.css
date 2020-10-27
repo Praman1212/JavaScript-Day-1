@@ -1,0 +1,30 @@
+body{
+    
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(106, 134, 134);
+    background-color: rgb(10, 9, 9);
+}
+#vado{
+    height: 70vh;
+    width: 100%;
+    background-color: brown;
+}
+#button{
+    text-align: center;
+    margin: 20px auto;
+    border: none;
+    padding: 20px 40px;
+    background-color: coral;
+    border-radius: 20px;
+    text-align: center;
+    transform: translate(80vh,0);
+    outline: none;
+}
+#button:hover{
+    background-color: rgb(148, 97, 97);
+    color: rgb(203, 212, 228);
+    
+}
